@@ -1,2 +1,10 @@
-/output
-/render_pdf
+# Cache
+.pytest_cache/
+**/__pycache__/
+
+# Output Result
+output/
+render_from_gv_file/*.pdf
+
+# Environment
+env/
